@@ -1,0 +1,21 @@
+{{view App.FilterView controllerBinding = "App.FilterController"}}
+<div class="ui-front aside">
+    <input id="search" style=width:100px; height:100px;">
+    
+    </input>
+</div>
+<!--v| These are jquery-driven category filtering views |v-->
+
+    {{view App.CatsfilterView}}
+	{{partial catsfilter}} <br>
+	
+	
+
+<div id="ruless">
+<!--here are all the rules that can be made.-->
+
+<button {{ action makeRule}} name="makeRule">Add a Rule</button>
+
+	
+</div>
+

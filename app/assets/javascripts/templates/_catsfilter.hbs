@@ -1,0 +1,24 @@
+
+<select class="filter" id= "cat1filter" name="cat1filter" size="1">
+<option value="" selected="selected">Filter by Category...</option>
+<option value="business">Business</option>
+<option value="film">Film</option>
+<option value="food">Food & Drink</option>
+<option value="gather">Gathering</option>
+<option value="large">Large Event</option>
+<option value="music">Music</option>
+<option value="shared">Shared Interests</option>
+<option value="task">Task</option>
+<option value="theatre">Theatre</option>
+</select>
+<button {{bindAttr class="cat1filterOn:here:notHere"}} {{action removeFilter 'cat1'}}>
+X Remove filter
+</button>
+
+<br>
+<select class="filter" id="cat2filter" name="cat2filter" size="1">
+<option value=" " selected="selected">Please select one of the options above first.</option>
+</select>
+<button {{bindAttr class="cat2filterOn:here:notHere"}} {{action removeFilter 'cat2'}}>
+X Remove filter
+</button>

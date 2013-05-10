@@ -1,0 +1,257 @@
+@import "twitter/bootstrap";
+
+html, body {
+	height:100%;
+	width:100%;
+	margin:0;
+	font-family: "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+	font-weight:200;
+}
+
+.form-horizontal .form-actions {
+padding-left: 0px;
+}
+.inputWrap {
+	font-size: 20px;
+display: block;
+height: 100%;
+
+background-color: #343434;
+color: #f0f0f0;
+line-height: 100%;
+padding:10px;
+}
+.inputWrap input {
+	background:transparent;
+	-webkit-appearance: none;
+border-radius: 0;
+border:none;
+color: #f0f0f0;
+-webkit-box-shadow: 0 0 0px 0px rgba(0,0,0,0);
+-moz-box-shadow: 0 0 0px 0px rgba(0,0,0,0);
+box-shadow: 0 0 0px 0px rgba(0,0,0,0);
+}
+.inputWrap input:focus {
+background:transparent;
+	-webkit-appearance: none;
+border-radius: 0;
+border:none;
+color: #f0f0f0;
+-webkit-box-shadow: 0 0 0px 0px rgba(0,0,0,0);
+-moz-box-shadow: 0 0 0px 0px rgba(0,0,0,0);
+box-shadow: 0 0 0px 0px rgba(0,0,0,0);
+}
+.inputWrap input:focus:invalid:focus {
+background:transparent;
+	-webkit-appearance: none;
+border-radius: 0;
+border:none;
+color: #f0f0f0;
+-webkit-box-shadow: 0 0 0px 0px rgba(0,0,0,0);
+-moz-box-shadow: 0 0 0px 0px rgba(0,0,0,0);
+box-shadow: 0 0 0px 0px rgba(0,0,0,0);
+}
+.navbar {
+	margin-bottom:0;
+  .brand a {
+    &:hover {
+      text-decoration: none;
+    }
+  }
+}
+.form-horizontal .controls {
+margin-left: 0px;
+}
+#main {
+  
+
+  .contact-details {
+    h2 img {
+      margin-right: 15px;
+      width: 80px;
+      height: 80px;
+    }
+
+    dl.dl-horizontal {
+      dt {
+        width: 80px;
+        margin-bottom: 8px;
+      }
+      dd {
+        margin-left: 95px;
+        margin-bottom: 8px;
+      }
+    }
+  }
+
+  form {
+    .phone-number {
+      margin-bottom: 8px;
+      white-space: nowrap;
+
+      input[type="text"] {
+        width: 105px;
+      }
+    }
+  }
+}
+
+#map-canvas img {
+    max-width: none;
+}
+.aside {
+	margin-top:40px;
+}
+.controls {
+	
+}
+.sidebar-nav ul li {
+	display:inline;
+	list-style: none;
+	
+}
+.theNav ul {
+margin:0;
+padding-bottom:20px;
+li {
+	display:inline;
+	list-style: none;
+	color: #aaa;
+	padding:20px;
+	a {
+		line-height:20px;
+		color: #aaa;
+		text-decoration:none;
+		&:hover {
+			color: #f0f0f0;
+			text-decoration: none;
+		}
+	}
+}
+}
+.theNavWrap {
+	float:right;
+	position:fixed;
+	right:10%;
+	z-index:9999999;
+}
+.pull-right {
+	float:right !important;
+}
+.theNav {
+	background: #343434 !important;
+	border-radius: 0;
+	border:none;
+border-bottom:1px solid black;
+-webkit-box-shadow: 0 0 0px 0px rgba(0,0,0,0);
+-moz-box-shadow: 0 0 0px 0px rgba(0,0,0,0);
+box-shadow: 0 0 0px 0px rgba(0,0,0,0);
+}
+
+#theSidebar {
+	height:100%;
+	padding:30px;
+	overflow-y: scroll;
+	text-align:left;
+	float:right;
+	background-color: #4f4f4f;
+	
+-webkit-transition: all .5s ease;
+-moz-transition: all .5s ease;
+-ms-transition: all .5s ease;
+-o-transition: all .5s ease;
+transition: all .5s ease;
+}
+
+.alpha { margin-left: 0; }
+.omega { margin-right: 0; }
+
+#theMap {
+	height:100%;
+	margin-left: 0;
+	float:right;
+	overflow: hidden;
+	
+}
+.bigBoy {
+	height:100%;
+	padding:0;
+	margin:0;
+	background-color: #4f4f4f;
+}
+#ember303, #ember312 {
+	height:100%;
+}
+.control-label {
+	width:200px !important;
+	float:none !important;
+	margin:0 !important;
+	padding: 0 !important;
+	text-align:left !important;
+}
+.notHere {
+	display:none;
+}
+.here {
+	display:block;
+}
+
+.mainSwitch {
+	font-family: "Helvetica Neue", Helvetica;
+	font-weight: 100;
+	font-size: 1.3em;
+	color:#aaa;
+	-webkit-transition: all .5s ease;
+-moz-transition: all .5s ease;
+-ms-transition: all .5s ease;
+-o-transition: all .5s ease;
+transition: all .5s ease;
+}
+
+.switchOn {
+	color: #f0f0f0;
+	font-size:1.6em;
+}
+
+.mainSwitch:hover {
+	outline:none !important;
+	color:#f0f0f0;
+	text-decoration: none !important;
+}
+
+#loginForm {
+	position:absolute;
+	height:400px;
+	width:250px;
+	top:50%;
+	margin-top:-200px;
+	left:50%;
+	margin-left:-125px;
+	background:white;
+	border: 1px solid #aaa;
+	z-index:999;
+	display:none;
+}
+
+#signInBox {
+	position:absolute;
+	right:100px;
+	top:100px;
+	z-index:999;
+	
+}
+
+#signUpForm {
+	position:absolute;
+	height:400px;
+	width:250px;
+	top:50%;
+	margin-top:-200px;
+	left:50%;
+	margin-left:-125px;
+	background:white;
+	border: 1px solid #aaa;
+	z-index:999;
+	display:none;
+}
+

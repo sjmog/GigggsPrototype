@@ -1,0 +1,469 @@
+# Logfile created on 2013-03-22 17:13:46 +0000 by logger.rb/25413
+[03/22/13 17:13:46 +0000 Samuels-MacBook-Air-2.local (51169)] INFO : Reading configuration from config/newrelic.yml
+[03/22/13 17:13:46 +0000 Samuels-MacBook-Air-2.local (51169)] INFO : Starting the New Relic Agent.
+[03/22/13 17:13:46 +0000 Samuels-MacBook-Air-2.local (51169)] INFO : Environment: development
+[03/22/13 17:13:46 +0000 Samuels-MacBook-Air-2.local (51169)] INFO : Dispatcher: webrick
+[03/22/13 17:13:46 +0000 Samuels-MacBook-Air-2.local (51169)] INFO : Application: My Application
+[03/22/13 17:13:46 +0000 Samuels-MacBook-Air-2.local (51169)] WARN : Agent configured not to send data in this environment.
+[03/22/13 17:13:46 +0000 Samuels-MacBook-Air-2.local (51169)] INFO : Installing ActiveRecord instrumentation
+[03/22/13 17:13:46 +0000 Samuels-MacBook-Air-2.local (51169)] INFO : Installing Net instrumentation
+[03/22/13 17:13:46 +0000 Samuels-MacBook-Air-2.local (51169)] INFO : Installing Rails 3 Controller instrumentation
+[03/22/13 17:13:46 +0000 Samuels-MacBook-Air-2.local (51169)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[03/22/13 17:13:46 +0000 Samuels-MacBook-Air-2.local (51169)] INFO : Installing Rails3 Error instrumentation
+[03/22/13 17:13:46 +0000 Samuels-MacBook-Air-2.local (51169)] INFO : Finished instrumentation
+[03/23/13 16:30:19 +0000 Samuels-MacBook-Air-2.local (53187)] INFO : Reading configuration from config/newrelic.yml
+[03/23/13 16:30:19 +0000 Samuels-MacBook-Air-2.local (53187)] INFO : Starting the New Relic Agent.
+[03/23/13 16:30:19 +0000 Samuels-MacBook-Air-2.local (53187)] INFO : Environment: development
+[03/23/13 16:30:19 +0000 Samuels-MacBook-Air-2.local (53187)] INFO : Dispatcher: webrick
+[03/23/13 16:30:19 +0000 Samuels-MacBook-Air-2.local (53187)] INFO : Application: My Application
+[03/23/13 16:30:19 +0000 Samuels-MacBook-Air-2.local (53187)] WARN : Agent configured not to send data in this environment.
+[03/23/13 16:30:19 +0000 Samuels-MacBook-Air-2.local (53187)] INFO : Installing ActiveRecord instrumentation
+[03/23/13 16:30:19 +0000 Samuels-MacBook-Air-2.local (53187)] INFO : Installing Net instrumentation
+[03/23/13 16:30:19 +0000 Samuels-MacBook-Air-2.local (53187)] INFO : Installing Rails 3 Controller instrumentation
+[03/23/13 16:30:19 +0000 Samuels-MacBook-Air-2.local (53187)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[03/23/13 16:30:19 +0000 Samuels-MacBook-Air-2.local (53187)] INFO : Installing Rails3 Error instrumentation
+[03/23/13 16:30:19 +0000 Samuels-MacBook-Air-2.local (53187)] INFO : Finished instrumentation
+[03/23/13 19:56:37 +0000 Samuels-MacBook-Air-2.local (53753)] INFO : Reading configuration from config/newrelic.yml
+[03/23/13 19:56:37 +0000 Samuels-MacBook-Air-2.local (53753)] INFO : Starting the New Relic Agent.
+[03/23/13 19:56:37 +0000 Samuels-MacBook-Air-2.local (53753)] INFO : Environment: development
+[03/23/13 19:56:37 +0000 Samuels-MacBook-Air-2.local (53753)] INFO : Dispatcher: webrick
+[03/23/13 19:56:37 +0000 Samuels-MacBook-Air-2.local (53753)] INFO : Application: My Application
+[03/23/13 19:56:37 +0000 Samuels-MacBook-Air-2.local (53753)] WARN : Agent configured not to send data in this environment.
+[03/23/13 19:56:37 +0000 Samuels-MacBook-Air-2.local (53753)] INFO : Installing ActiveRecord instrumentation
+[03/23/13 19:56:37 +0000 Samuels-MacBook-Air-2.local (53753)] INFO : Installing Net instrumentation
+[03/23/13 19:56:37 +0000 Samuels-MacBook-Air-2.local (53753)] INFO : Installing Rails 3 Controller instrumentation
+[03/23/13 19:56:37 +0000 Samuels-MacBook-Air-2.local (53753)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[03/23/13 19:56:37 +0000 Samuels-MacBook-Air-2.local (53753)] INFO : Installing Rails3 Error instrumentation
+[03/23/13 19:56:37 +0000 Samuels-MacBook-Air-2.local (53753)] INFO : Finished instrumentation
+[03/23/13 20:02:56 +0000 Samuels-MacBook-Air-2.local (53780)] INFO : Reading configuration from config/newrelic.yml
+[03/23/13 20:02:56 +0000 Samuels-MacBook-Air-2.local (53780)] INFO : Starting the New Relic Agent.
+[03/23/13 20:02:56 +0000 Samuels-MacBook-Air-2.local (53780)] INFO : Environment: development
+[03/23/13 20:02:56 +0000 Samuels-MacBook-Air-2.local (53780)] INFO : Dispatcher: webrick
+[03/23/13 20:02:56 +0000 Samuels-MacBook-Air-2.local (53780)] INFO : Application: My Application
+[03/23/13 20:02:56 +0000 Samuels-MacBook-Air-2.local (53780)] WARN : Agent configured not to send data in this environment.
+[03/23/13 20:02:56 +0000 Samuels-MacBook-Air-2.local (53780)] INFO : Installing ActiveRecord instrumentation
+[03/23/13 20:02:56 +0000 Samuels-MacBook-Air-2.local (53780)] INFO : Installing Net instrumentation
+[03/23/13 20:02:56 +0000 Samuels-MacBook-Air-2.local (53780)] INFO : Installing Rails 3 Controller instrumentation
+[03/23/13 20:02:56 +0000 Samuels-MacBook-Air-2.local (53780)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[03/23/13 20:02:56 +0000 Samuels-MacBook-Air-2.local (53780)] INFO : Installing Rails3 Error instrumentation
+[03/23/13 20:02:56 +0000 Samuels-MacBook-Air-2.local (53780)] INFO : Finished instrumentation
+[03/24/13 01:36:49 +0000 Samuels-MacBook-Air-2.local (53963)] INFO : Reading configuration from config/newrelic.yml
+[03/24/13 01:36:49 +0000 Samuels-MacBook-Air-2.local (53963)] INFO : Starting the New Relic Agent.
+[03/24/13 01:36:49 +0000 Samuels-MacBook-Air-2.local (53963)] INFO : Environment: development
+[03/24/13 01:36:49 +0000 Samuels-MacBook-Air-2.local (53963)] INFO : Dispatcher: webrick
+[03/24/13 01:36:49 +0000 Samuels-MacBook-Air-2.local (53963)] INFO : Application: My Application
+[03/24/13 01:36:49 +0000 Samuels-MacBook-Air-2.local (53963)] WARN : Agent configured not to send data in this environment.
+[03/24/13 01:36:49 +0000 Samuels-MacBook-Air-2.local (53963)] INFO : Installing ActiveRecord instrumentation
+[03/24/13 01:36:49 +0000 Samuels-MacBook-Air-2.local (53963)] INFO : Installing Net instrumentation
+[03/24/13 01:36:49 +0000 Samuels-MacBook-Air-2.local (53963)] INFO : Installing Rails 3 Controller instrumentation
+[03/24/13 01:36:49 +0000 Samuels-MacBook-Air-2.local (53963)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[03/24/13 01:36:49 +0000 Samuels-MacBook-Air-2.local (53963)] INFO : Installing Rails3 Error instrumentation
+[03/24/13 01:36:49 +0000 Samuels-MacBook-Air-2.local (53963)] INFO : Finished instrumentation
+[03/24/13 23:38:35 +0000 Samuels-MacBook-Air-2.local (54853)] INFO : Reading configuration from config/newrelic.yml
+[03/24/13 23:38:35 +0000 Samuels-MacBook-Air-2.local (54853)] INFO : Starting the New Relic Agent.
+[03/24/13 23:38:35 +0000 Samuels-MacBook-Air-2.local (54853)] INFO : Environment: development
+[03/24/13 23:38:35 +0000 Samuels-MacBook-Air-2.local (54853)] INFO : Dispatcher: webrick
+[03/24/13 23:38:35 +0000 Samuels-MacBook-Air-2.local (54853)] INFO : Application: My Application
+[03/24/13 23:38:35 +0000 Samuels-MacBook-Air-2.local (54853)] WARN : Agent configured not to send data in this environment.
+[03/24/13 23:38:35 +0000 Samuels-MacBook-Air-2.local (54853)] INFO : Installing ActiveRecord instrumentation
+[03/24/13 23:38:35 +0000 Samuels-MacBook-Air-2.local (54853)] INFO : Installing Net instrumentation
+[03/24/13 23:38:35 +0000 Samuels-MacBook-Air-2.local (54853)] INFO : Installing Rails 3 Controller instrumentation
+[03/24/13 23:38:35 +0000 Samuels-MacBook-Air-2.local (54853)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[03/24/13 23:38:35 +0000 Samuels-MacBook-Air-2.local (54853)] INFO : Installing Rails3 Error instrumentation
+[03/24/13 23:38:35 +0000 Samuels-MacBook-Air-2.local (54853)] INFO : Finished instrumentation
+[03/24/13 23:45:49 +0000 Samuels-MacBook-Air-2.local (54876)] INFO : Reading configuration from config/newrelic.yml
+[03/24/13 23:45:49 +0000 Samuels-MacBook-Air-2.local (54876)] INFO : Starting the New Relic Agent.
+[03/24/13 23:45:49 +0000 Samuels-MacBook-Air-2.local (54876)] INFO : Environment: development
+[03/24/13 23:45:49 +0000 Samuels-MacBook-Air-2.local (54876)] INFO : Dispatcher: webrick
+[03/24/13 23:45:49 +0000 Samuels-MacBook-Air-2.local (54876)] INFO : Application: My Application
+[03/24/13 23:45:49 +0000 Samuels-MacBook-Air-2.local (54876)] WARN : Agent configured not to send data in this environment.
+[03/24/13 23:45:49 +0000 Samuels-MacBook-Air-2.local (54876)] INFO : Installing ActiveRecord instrumentation
+[03/24/13 23:45:49 +0000 Samuels-MacBook-Air-2.local (54876)] INFO : Installing Net instrumentation
+[03/24/13 23:45:49 +0000 Samuels-MacBook-Air-2.local (54876)] INFO : Installing Rails 3 Controller instrumentation
+[03/24/13 23:45:49 +0000 Samuels-MacBook-Air-2.local (54876)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[03/24/13 23:45:49 +0000 Samuels-MacBook-Air-2.local (54876)] INFO : Installing Rails3 Error instrumentation
+[03/24/13 23:45:49 +0000 Samuels-MacBook-Air-2.local (54876)] INFO : Finished instrumentation
+[03/27/13 14:11:50 +0000 Samuels-MacBook-Air-2.local (7991)] INFO : Reading configuration from config/newrelic.yml
+[03/27/13 14:11:50 +0000 Samuels-MacBook-Air-2.local (7991)] INFO : Starting the New Relic Agent.
+[03/27/13 14:11:50 +0000 Samuels-MacBook-Air-2.local (7991)] INFO : Environment: development
+[03/27/13 14:11:50 +0000 Samuels-MacBook-Air-2.local (7991)] INFO : Dispatcher: webrick
+[03/27/13 14:11:50 +0000 Samuels-MacBook-Air-2.local (7991)] INFO : Application: My Application
+[03/27/13 14:11:50 +0000 Samuels-MacBook-Air-2.local (7991)] WARN : Agent configured not to send data in this environment.
+[03/27/13 14:11:50 +0000 Samuels-MacBook-Air-2.local (7991)] INFO : Installing ActiveRecord instrumentation
+[03/27/13 14:11:50 +0000 Samuels-MacBook-Air-2.local (7991)] INFO : Installing Net instrumentation
+[03/27/13 14:11:50 +0000 Samuels-MacBook-Air-2.local (7991)] INFO : Installing Rails 3 Controller instrumentation
+[03/27/13 14:11:50 +0000 Samuels-MacBook-Air-2.local (7991)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[03/27/13 14:11:50 +0000 Samuels-MacBook-Air-2.local (7991)] INFO : Installing Rails3 Error instrumentation
+[03/27/13 14:11:50 +0000 Samuels-MacBook-Air-2.local (7991)] INFO : Finished instrumentation
+[03/27/13 14:12:34 +0000 Samuels-MacBook-Air-2.local (7998)] INFO : Reading configuration from config/newrelic.yml
+[03/27/13 14:12:34 +0000 Samuels-MacBook-Air-2.local (7998)] INFO : Starting the New Relic Agent.
+[03/27/13 14:12:34 +0000 Samuels-MacBook-Air-2.local (7998)] INFO : Environment: development
+[03/27/13 14:12:34 +0000 Samuels-MacBook-Air-2.local (7998)] INFO : Dispatcher: webrick
+[03/27/13 14:12:34 +0000 Samuels-MacBook-Air-2.local (7998)] INFO : Application: My Application
+[03/27/13 14:12:34 +0000 Samuels-MacBook-Air-2.local (7998)] WARN : Agent configured not to send data in this environment.
+[03/27/13 14:12:34 +0000 Samuels-MacBook-Air-2.local (7998)] INFO : Installing ActiveRecord instrumentation
+[03/27/13 14:12:34 +0000 Samuels-MacBook-Air-2.local (7998)] INFO : Installing Net instrumentation
+[03/27/13 14:12:34 +0000 Samuels-MacBook-Air-2.local (7998)] INFO : Installing Rails 3 Controller instrumentation
+[03/27/13 14:12:34 +0000 Samuels-MacBook-Air-2.local (7998)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[03/27/13 14:12:34 +0000 Samuels-MacBook-Air-2.local (7998)] INFO : Installing Rails3 Error instrumentation
+[03/27/13 14:12:34 +0000 Samuels-MacBook-Air-2.local (7998)] INFO : Finished instrumentation
+[03/28/13 15:07:23 +0000 Samuels-MacBook-Air-2.local (670)] INFO : Reading configuration from config/newrelic.yml
+[03/28/13 15:07:23 +0000 Samuels-MacBook-Air-2.local (670)] INFO : Starting the New Relic Agent.
+[03/28/13 15:07:23 +0000 Samuels-MacBook-Air-2.local (670)] INFO : Environment: development
+[03/28/13 15:07:23 +0000 Samuels-MacBook-Air-2.local (670)] INFO : Dispatcher: webrick
+[03/28/13 15:07:23 +0000 Samuels-MacBook-Air-2.local (670)] INFO : Application: My Application
+[03/28/13 15:07:23 +0000 Samuels-MacBook-Air-2.local (670)] WARN : Agent configured not to send data in this environment.
+[03/28/13 15:07:23 +0000 Samuels-MacBook-Air-2.local (670)] INFO : Installing ActiveRecord instrumentation
+[03/28/13 15:07:23 +0000 Samuels-MacBook-Air-2.local (670)] INFO : Installing Net instrumentation
+[03/28/13 15:07:23 +0000 Samuels-MacBook-Air-2.local (670)] INFO : Installing Rails 3 Controller instrumentation
+[03/28/13 15:07:23 +0000 Samuels-MacBook-Air-2.local (670)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[03/28/13 15:07:23 +0000 Samuels-MacBook-Air-2.local (670)] INFO : Installing Rails3 Error instrumentation
+[03/28/13 15:07:23 +0000 Samuels-MacBook-Air-2.local (670)] INFO : Finished instrumentation
+[03/30/13 19:27:51 +0000 Samuels-MacBook-Air-2.local (2793)] INFO : Reading configuration from config/newrelic.yml
+[03/30/13 19:27:51 +0000 Samuels-MacBook-Air-2.local (2793)] INFO : Starting the New Relic Agent.
+[03/30/13 19:27:51 +0000 Samuels-MacBook-Air-2.local (2793)] INFO : Environment: development
+[03/30/13 19:27:51 +0000 Samuels-MacBook-Air-2.local (2793)] INFO : Dispatcher: webrick
+[03/30/13 19:27:51 +0000 Samuels-MacBook-Air-2.local (2793)] INFO : Application: My Application
+[03/30/13 19:27:51 +0000 Samuels-MacBook-Air-2.local (2793)] WARN : Agent configured not to send data in this environment.
+[03/30/13 19:27:51 +0000 Samuels-MacBook-Air-2.local (2793)] INFO : Installing ActiveRecord instrumentation
+[03/30/13 19:27:51 +0000 Samuels-MacBook-Air-2.local (2793)] INFO : Installing Net instrumentation
+[03/30/13 19:27:51 +0000 Samuels-MacBook-Air-2.local (2793)] INFO : Installing Rails 3 Controller instrumentation
+[03/30/13 19:27:51 +0000 Samuels-MacBook-Air-2.local (2793)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[03/30/13 19:27:51 +0000 Samuels-MacBook-Air-2.local (2793)] INFO : Installing Rails3 Error instrumentation
+[03/30/13 19:27:51 +0000 Samuels-MacBook-Air-2.local (2793)] INFO : Finished instrumentation
+[03/30/13 19:52:45 +0000 Samuels-MacBook-Air-2.local (2997)] INFO : Reading configuration from config/newrelic.yml
+[03/30/13 19:52:45 +0000 Samuels-MacBook-Air-2.local (2997)] INFO : Starting the New Relic Agent.
+[03/30/13 19:52:45 +0000 Samuels-MacBook-Air-2.local (2997)] INFO : Environment: development
+[03/30/13 19:52:45 +0000 Samuels-MacBook-Air-2.local (2997)] INFO : Dispatcher: webrick
+[03/30/13 19:52:45 +0000 Samuels-MacBook-Air-2.local (2997)] INFO : Application: My Application
+[03/30/13 19:52:45 +0000 Samuels-MacBook-Air-2.local (2997)] WARN : Agent configured not to send data in this environment.
+[03/30/13 19:52:45 +0000 Samuels-MacBook-Air-2.local (2997)] INFO : Installing ActiveRecord instrumentation
+[03/30/13 19:52:45 +0000 Samuels-MacBook-Air-2.local (2997)] INFO : Installing Net instrumentation
+[03/30/13 19:52:45 +0000 Samuels-MacBook-Air-2.local (2997)] INFO : Installing Rails 3 Controller instrumentation
+[03/30/13 19:52:45 +0000 Samuels-MacBook-Air-2.local (2997)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[03/30/13 19:52:45 +0000 Samuels-MacBook-Air-2.local (2997)] INFO : Installing Rails3 Error instrumentation
+[03/30/13 19:52:45 +0000 Samuels-MacBook-Air-2.local (2997)] INFO : Finished instrumentation
+[03/31/13 00:13:56 +0000 Samuels-MacBook-Air-2.local (3973)] INFO : Reading configuration from config/newrelic.yml
+[03/31/13 00:13:56 +0000 Samuels-MacBook-Air-2.local (3973)] INFO : Starting the New Relic Agent.
+[03/31/13 00:13:56 +0000 Samuels-MacBook-Air-2.local (3973)] INFO : Environment: development
+[03/31/13 00:13:56 +0000 Samuels-MacBook-Air-2.local (3973)] INFO : Dispatcher: webrick
+[03/31/13 00:13:56 +0000 Samuels-MacBook-Air-2.local (3973)] INFO : Application: My Application
+[03/31/13 00:13:56 +0000 Samuels-MacBook-Air-2.local (3973)] WARN : Agent configured not to send data in this environment.
+[03/31/13 00:13:56 +0000 Samuels-MacBook-Air-2.local (3973)] INFO : Installing ActiveRecord instrumentation
+[03/31/13 00:13:56 +0000 Samuels-MacBook-Air-2.local (3973)] INFO : Installing Net instrumentation
+[03/31/13 00:13:56 +0000 Samuels-MacBook-Air-2.local (3973)] INFO : Installing Rails 3 Controller instrumentation
+[03/31/13 00:13:56 +0000 Samuels-MacBook-Air-2.local (3973)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[03/31/13 00:13:56 +0000 Samuels-MacBook-Air-2.local (3973)] INFO : Installing Rails3 Error instrumentation
+[03/31/13 00:13:56 +0000 Samuels-MacBook-Air-2.local (3973)] INFO : Finished instrumentation
+[03/31/13 00:20:05 +0000 Samuels-MacBook-Air-2.local (4008)] INFO : Reading configuration from config/newrelic.yml
+[03/31/13 00:20:05 +0000 Samuels-MacBook-Air-2.local (4008)] INFO : Starting the New Relic Agent.
+[03/31/13 00:20:05 +0000 Samuels-MacBook-Air-2.local (4008)] INFO : Environment: development
+[03/31/13 00:20:05 +0000 Samuels-MacBook-Air-2.local (4008)] INFO : Dispatcher: webrick
+[03/31/13 00:20:05 +0000 Samuels-MacBook-Air-2.local (4008)] INFO : Application: My Application
+[03/31/13 00:20:05 +0000 Samuels-MacBook-Air-2.local (4008)] WARN : Agent configured not to send data in this environment.
+[03/31/13 00:20:05 +0000 Samuels-MacBook-Air-2.local (4008)] INFO : Installing ActiveRecord instrumentation
+[03/31/13 00:20:05 +0000 Samuels-MacBook-Air-2.local (4008)] INFO : Installing Net instrumentation
+[03/31/13 00:20:05 +0000 Samuels-MacBook-Air-2.local (4008)] INFO : Installing Rails 3 Controller instrumentation
+[03/31/13 00:20:05 +0000 Samuels-MacBook-Air-2.local (4008)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[03/31/13 00:20:05 +0000 Samuels-MacBook-Air-2.local (4008)] INFO : Installing Rails3 Error instrumentation
+[03/31/13 00:20:05 +0000 Samuels-MacBook-Air-2.local (4008)] INFO : Finished instrumentation
+[03/31/13 17:07:16 +0100 Samuels-MacBook-Air-2.local (6127)] INFO : Reading configuration from config/newrelic.yml
+[03/31/13 17:07:16 +0100 Samuels-MacBook-Air-2.local (6127)] INFO : Starting the New Relic Agent.
+[03/31/13 17:07:16 +0100 Samuels-MacBook-Air-2.local (6127)] INFO : Environment: development
+[03/31/13 17:07:16 +0100 Samuels-MacBook-Air-2.local (6127)] INFO : Dispatcher: webrick
+[03/31/13 17:07:16 +0100 Samuels-MacBook-Air-2.local (6127)] INFO : Application: My Application
+[03/31/13 17:07:16 +0100 Samuels-MacBook-Air-2.local (6127)] WARN : Agent configured not to send data in this environment.
+[03/31/13 17:07:16 +0100 Samuels-MacBook-Air-2.local (6127)] INFO : Installing ActiveRecord instrumentation
+[03/31/13 17:07:16 +0100 Samuels-MacBook-Air-2.local (6127)] INFO : Installing Net instrumentation
+[03/31/13 17:07:16 +0100 Samuels-MacBook-Air-2.local (6127)] INFO : Installing Rails 3 Controller instrumentation
+[03/31/13 17:07:16 +0100 Samuels-MacBook-Air-2.local (6127)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[03/31/13 17:07:16 +0100 Samuels-MacBook-Air-2.local (6127)] INFO : Installing Rails3 Error instrumentation
+[03/31/13 17:07:16 +0100 Samuels-MacBook-Air-2.local (6127)] INFO : Finished instrumentation
+[03/31/13 17:12:44 +0100 Samuels-MacBook-Air-2.local (6167)] INFO : Reading configuration from config/newrelic.yml
+[03/31/13 17:12:44 +0100 Samuels-MacBook-Air-2.local (6167)] INFO : Starting the New Relic Agent.
+[03/31/13 17:12:44 +0100 Samuels-MacBook-Air-2.local (6167)] INFO : Environment: development
+[03/31/13 17:12:44 +0100 Samuels-MacBook-Air-2.local (6167)] INFO : Dispatcher: webrick
+[03/31/13 17:12:44 +0100 Samuels-MacBook-Air-2.local (6167)] INFO : Application: My Application
+[03/31/13 17:12:44 +0100 Samuels-MacBook-Air-2.local (6167)] WARN : Agent configured not to send data in this environment.
+[03/31/13 17:12:44 +0100 Samuels-MacBook-Air-2.local (6167)] INFO : Installing ActiveRecord instrumentation
+[03/31/13 17:12:44 +0100 Samuels-MacBook-Air-2.local (6167)] INFO : Installing Net instrumentation
+[03/31/13 17:12:44 +0100 Samuels-MacBook-Air-2.local (6167)] INFO : Installing Rails 3 Controller instrumentation
+[03/31/13 17:12:44 +0100 Samuels-MacBook-Air-2.local (6167)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[03/31/13 17:12:44 +0100 Samuels-MacBook-Air-2.local (6167)] INFO : Installing Rails3 Error instrumentation
+[03/31/13 17:12:44 +0100 Samuels-MacBook-Air-2.local (6167)] INFO : Finished instrumentation
+[04/01/13 15:14:20 +0100 Samuels-MacBook-Air-2.local (8458)] INFO : Reading configuration from config/newrelic.yml
+[04/01/13 15:14:20 +0100 Samuels-MacBook-Air-2.local (8458)] INFO : Starting the New Relic Agent.
+[04/01/13 15:14:20 +0100 Samuels-MacBook-Air-2.local (8458)] INFO : Environment: development
+[04/01/13 15:14:20 +0100 Samuels-MacBook-Air-2.local (8458)] INFO : Dispatcher: webrick
+[04/01/13 15:14:20 +0100 Samuels-MacBook-Air-2.local (8458)] INFO : Application: My Application
+[04/01/13 15:14:20 +0100 Samuels-MacBook-Air-2.local (8458)] WARN : Agent configured not to send data in this environment.
+[04/01/13 15:14:20 +0100 Samuels-MacBook-Air-2.local (8458)] INFO : Installing ActiveRecord instrumentation
+[04/01/13 15:14:20 +0100 Samuels-MacBook-Air-2.local (8458)] INFO : Installing Net instrumentation
+[04/01/13 15:14:20 +0100 Samuels-MacBook-Air-2.local (8458)] INFO : Installing Rails 3 Controller instrumentation
+[04/01/13 15:14:20 +0100 Samuels-MacBook-Air-2.local (8458)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[04/01/13 15:14:20 +0100 Samuels-MacBook-Air-2.local (8458)] INFO : Installing Rails3 Error instrumentation
+[04/01/13 15:14:20 +0100 Samuels-MacBook-Air-2.local (8458)] INFO : Finished instrumentation
+[04/01/13 19:24:10 +0100 Samuels-MacBook-Air-2.local (9513)] INFO : Reading configuration from config/newrelic.yml
+[04/01/13 19:24:10 +0100 Samuels-MacBook-Air-2.local (9513)] INFO : Starting the New Relic Agent.
+[04/01/13 19:24:10 +0100 Samuels-MacBook-Air-2.local (9513)] INFO : Environment: development
+[04/01/13 19:24:10 +0100 Samuels-MacBook-Air-2.local (9513)] INFO : Dispatcher: webrick
+[04/01/13 19:24:10 +0100 Samuels-MacBook-Air-2.local (9513)] INFO : Application: My Application
+[04/01/13 19:24:10 +0100 Samuels-MacBook-Air-2.local (9513)] WARN : Agent configured not to send data in this environment.
+[04/01/13 19:24:10 +0100 Samuels-MacBook-Air-2.local (9513)] INFO : Installing ActiveRecord instrumentation
+[04/01/13 19:24:10 +0100 Samuels-MacBook-Air-2.local (9513)] INFO : Installing Net instrumentation
+[04/01/13 19:24:10 +0100 Samuels-MacBook-Air-2.local (9513)] INFO : Installing Rails 3 Controller instrumentation
+[04/01/13 19:24:10 +0100 Samuels-MacBook-Air-2.local (9513)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[04/01/13 19:24:10 +0100 Samuels-MacBook-Air-2.local (9513)] INFO : Installing Rails3 Error instrumentation
+[04/01/13 19:24:10 +0100 Samuels-MacBook-Air-2.local (9513)] INFO : Finished instrumentation
+[04/02/13 22:26:08 +0100 Samuels-MacBook-Air-2.local (12067)] INFO : Reading configuration from config/newrelic.yml
+[04/02/13 22:26:08 +0100 Samuels-MacBook-Air-2.local (12067)] INFO : Starting the New Relic Agent.
+[04/02/13 22:26:08 +0100 Samuels-MacBook-Air-2.local (12067)] INFO : Environment: development
+[04/02/13 22:26:08 +0100 Samuels-MacBook-Air-2.local (12067)] INFO : Dispatcher: webrick
+[04/02/13 22:26:08 +0100 Samuels-MacBook-Air-2.local (12067)] INFO : Application: My Application
+[04/02/13 22:26:08 +0100 Samuels-MacBook-Air-2.local (12067)] WARN : Agent configured not to send data in this environment.
+[04/02/13 22:26:08 +0100 Samuels-MacBook-Air-2.local (12067)] INFO : Installing ActiveRecord instrumentation
+[04/02/13 22:26:08 +0100 Samuels-MacBook-Air-2.local (12067)] INFO : Installing Net instrumentation
+[04/02/13 22:26:08 +0100 Samuels-MacBook-Air-2.local (12067)] INFO : Installing Rails 3 Controller instrumentation
+[04/02/13 22:26:08 +0100 Samuels-MacBook-Air-2.local (12067)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[04/02/13 22:26:08 +0100 Samuels-MacBook-Air-2.local (12067)] INFO : Installing Rails3 Error instrumentation
+[04/02/13 22:26:08 +0100 Samuels-MacBook-Air-2.local (12067)] INFO : Finished instrumentation
+[04/03/13 02:43:05 +0100 Samuels-MacBook-Air-2.local (12400)] INFO : Reading configuration from config/newrelic.yml
+[04/03/13 02:43:05 +0100 Samuels-MacBook-Air-2.local (12400)] INFO : Starting the New Relic Agent.
+[04/03/13 02:43:05 +0100 Samuels-MacBook-Air-2.local (12400)] INFO : Environment: development
+[04/03/13 02:43:05 +0100 Samuels-MacBook-Air-2.local (12400)] INFO : Dispatcher: webrick
+[04/03/13 02:43:05 +0100 Samuels-MacBook-Air-2.local (12400)] INFO : Application: My Application
+[04/03/13 02:43:05 +0100 Samuels-MacBook-Air-2.local (12400)] WARN : Agent configured not to send data in this environment.
+[04/03/13 02:43:05 +0100 Samuels-MacBook-Air-2.local (12400)] INFO : Installing ActiveRecord instrumentation
+[04/03/13 02:43:05 +0100 Samuels-MacBook-Air-2.local (12400)] INFO : Installing Net instrumentation
+[04/03/13 02:43:05 +0100 Samuels-MacBook-Air-2.local (12400)] INFO : Installing Rails 3 Controller instrumentation
+[04/03/13 02:43:05 +0100 Samuels-MacBook-Air-2.local (12400)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[04/03/13 02:43:05 +0100 Samuels-MacBook-Air-2.local (12400)] INFO : Installing Rails3 Error instrumentation
+[04/03/13 02:43:05 +0100 Samuels-MacBook-Air-2.local (12400)] INFO : Finished instrumentation
+[04/03/13 04:13:01 +0100 Samuels-MacBook-Air-2.local (12780)] INFO : Reading configuration from config/newrelic.yml
+[04/03/13 04:13:01 +0100 Samuels-MacBook-Air-2.local (12780)] INFO : Starting the New Relic Agent.
+[04/03/13 04:13:01 +0100 Samuels-MacBook-Air-2.local (12780)] INFO : Environment: development
+[04/03/13 04:13:01 +0100 Samuels-MacBook-Air-2.local (12780)] INFO : Dispatcher: webrick
+[04/03/13 04:13:01 +0100 Samuels-MacBook-Air-2.local (12780)] INFO : Application: My Application
+[04/03/13 04:13:01 +0100 Samuels-MacBook-Air-2.local (12780)] WARN : Agent configured not to send data in this environment.
+[04/03/13 04:13:01 +0100 Samuels-MacBook-Air-2.local (12780)] INFO : Installing ActiveRecord instrumentation
+[04/03/13 04:13:01 +0100 Samuels-MacBook-Air-2.local (12780)] INFO : Installing Net instrumentation
+[04/03/13 04:13:01 +0100 Samuels-MacBook-Air-2.local (12780)] INFO : Installing Rails 3 Controller instrumentation
+[04/03/13 04:13:01 +0100 Samuels-MacBook-Air-2.local (12780)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[04/03/13 04:13:01 +0100 Samuels-MacBook-Air-2.local (12780)] INFO : Installing Rails3 Error instrumentation
+[04/03/13 04:13:01 +0100 Samuels-MacBook-Air-2.local (12780)] INFO : Finished instrumentation
+[04/03/13 04:16:57 +0100 Samuels-MacBook-Air-2.local (12798)] INFO : Reading configuration from config/newrelic.yml
+[04/03/13 04:16:57 +0100 Samuels-MacBook-Air-2.local (12798)] INFO : Starting the New Relic Agent.
+[04/03/13 04:16:57 +0100 Samuels-MacBook-Air-2.local (12798)] INFO : Environment: development
+[04/03/13 04:16:57 +0100 Samuels-MacBook-Air-2.local (12798)] INFO : Dispatcher: webrick
+[04/03/13 04:16:57 +0100 Samuels-MacBook-Air-2.local (12798)] INFO : Application: My Application
+[04/03/13 04:16:57 +0100 Samuels-MacBook-Air-2.local (12798)] WARN : Agent configured not to send data in this environment.
+[04/03/13 04:16:57 +0100 Samuels-MacBook-Air-2.local (12798)] INFO : Installing ActiveRecord instrumentation
+[04/03/13 04:16:57 +0100 Samuels-MacBook-Air-2.local (12798)] INFO : Installing Net instrumentation
+[04/03/13 04:16:57 +0100 Samuels-MacBook-Air-2.local (12798)] INFO : Installing Rails 3 Controller instrumentation
+[04/03/13 04:16:57 +0100 Samuels-MacBook-Air-2.local (12798)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[04/03/13 04:16:57 +0100 Samuels-MacBook-Air-2.local (12798)] INFO : Installing Rails3 Error instrumentation
+[04/03/13 04:16:57 +0100 Samuels-MacBook-Air-2.local (12798)] INFO : Finished instrumentation
+[04/03/13 04:49:00 +0100 Samuels-MacBook-Air-2.local (12990)] INFO : Reading configuration from config/newrelic.yml
+[04/03/13 04:49:00 +0100 Samuels-MacBook-Air-2.local (12990)] INFO : Starting the New Relic Agent.
+[04/03/13 04:49:00 +0100 Samuels-MacBook-Air-2.local (12990)] INFO : Environment: development
+[04/03/13 04:49:00 +0100 Samuels-MacBook-Air-2.local (12990)] INFO : Dispatcher: webrick
+[04/03/13 04:49:00 +0100 Samuels-MacBook-Air-2.local (12990)] INFO : Application: My Application
+[04/03/13 04:49:00 +0100 Samuels-MacBook-Air-2.local (12990)] WARN : Agent configured not to send data in this environment.
+[04/03/13 04:49:00 +0100 Samuels-MacBook-Air-2.local (12990)] INFO : Installing ActiveRecord instrumentation
+[04/03/13 04:49:00 +0100 Samuels-MacBook-Air-2.local (12990)] INFO : Installing Net instrumentation
+[04/03/13 04:49:00 +0100 Samuels-MacBook-Air-2.local (12990)] INFO : Installing Rails 3 Controller instrumentation
+[04/03/13 04:49:00 +0100 Samuels-MacBook-Air-2.local (12990)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[04/03/13 04:49:00 +0100 Samuels-MacBook-Air-2.local (12990)] INFO : Installing Rails3 Error instrumentation
+[04/03/13 04:49:00 +0100 Samuels-MacBook-Air-2.local (12990)] INFO : Finished instrumentation
+[04/03/13 04:54:04 +0100 Samuels-MacBook-Air-2.local (13022)] INFO : Reading configuration from config/newrelic.yml
+[04/03/13 04:54:04 +0100 Samuels-MacBook-Air-2.local (13022)] INFO : Starting the New Relic Agent.
+[04/03/13 04:54:04 +0100 Samuels-MacBook-Air-2.local (13022)] INFO : Environment: development
+[04/03/13 04:54:04 +0100 Samuels-MacBook-Air-2.local (13022)] INFO : Dispatcher: webrick
+[04/03/13 04:54:04 +0100 Samuels-MacBook-Air-2.local (13022)] INFO : Application: My Application
+[04/03/13 04:54:04 +0100 Samuels-MacBook-Air-2.local (13022)] WARN : Agent configured not to send data in this environment.
+[04/03/13 04:54:04 +0100 Samuels-MacBook-Air-2.local (13022)] INFO : Installing ActiveRecord instrumentation
+[04/03/13 04:54:04 +0100 Samuels-MacBook-Air-2.local (13022)] INFO : Installing Net instrumentation
+[04/03/13 04:54:04 +0100 Samuels-MacBook-Air-2.local (13022)] INFO : Installing Rails 3 Controller instrumentation
+[04/03/13 04:54:04 +0100 Samuels-MacBook-Air-2.local (13022)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[04/03/13 04:54:04 +0100 Samuels-MacBook-Air-2.local (13022)] INFO : Installing Rails3 Error instrumentation
+[04/03/13 04:54:04 +0100 Samuels-MacBook-Air-2.local (13022)] INFO : Finished instrumentation
+[04/06/13 03:38:40 +0100 Samuels-MacBook-Air-2.local (18577)] INFO : Reading configuration from config/newrelic.yml
+[04/06/13 03:38:40 +0100 Samuels-MacBook-Air-2.local (18577)] INFO : Starting the New Relic Agent.
+[04/06/13 03:38:40 +0100 Samuels-MacBook-Air-2.local (18577)] INFO : Environment: development
+[04/06/13 03:38:40 +0100 Samuels-MacBook-Air-2.local (18577)] INFO : Dispatcher: webrick
+[04/06/13 03:38:40 +0100 Samuels-MacBook-Air-2.local (18577)] INFO : Application: My Application
+[04/06/13 03:38:40 +0100 Samuels-MacBook-Air-2.local (18577)] WARN : Agent configured not to send data in this environment.
+[04/06/13 03:38:40 +0100 Samuels-MacBook-Air-2.local (18577)] INFO : Installing ActiveRecord instrumentation
+[04/06/13 03:38:40 +0100 Samuels-MacBook-Air-2.local (18577)] INFO : Installing Net instrumentation
+[04/06/13 03:38:40 +0100 Samuels-MacBook-Air-2.local (18577)] INFO : Installing Rails 3 Controller instrumentation
+[04/06/13 03:38:40 +0100 Samuels-MacBook-Air-2.local (18577)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[04/06/13 03:38:40 +0100 Samuels-MacBook-Air-2.local (18577)] INFO : Installing Rails3 Error instrumentation
+[04/06/13 03:38:40 +0100 Samuels-MacBook-Air-2.local (18577)] INFO : Finished instrumentation
+[04/07/13 02:23:17 +0100 Samuels-MacBook-Air-2.local (41718)] INFO : Reading configuration from config/newrelic.yml
+[04/07/13 02:23:17 +0100 Samuels-MacBook-Air-2.local (41718)] INFO : Starting the New Relic Agent.
+[04/07/13 02:23:17 +0100 Samuels-MacBook-Air-2.local (41718)] INFO : Environment: development
+[04/07/13 02:23:17 +0100 Samuels-MacBook-Air-2.local (41718)] INFO : Dispatcher: webrick
+[04/07/13 02:23:17 +0100 Samuels-MacBook-Air-2.local (41718)] INFO : Application: My Application
+[04/07/13 02:23:17 +0100 Samuels-MacBook-Air-2.local (41718)] WARN : Agent configured not to send data in this environment.
+[04/07/13 02:23:17 +0100 Samuels-MacBook-Air-2.local (41718)] INFO : Installing ActiveRecord instrumentation
+[04/07/13 02:23:17 +0100 Samuels-MacBook-Air-2.local (41718)] INFO : Installing Net instrumentation
+[04/07/13 02:23:17 +0100 Samuels-MacBook-Air-2.local (41718)] INFO : Installing Rails 3 Controller instrumentation
+[04/07/13 02:23:17 +0100 Samuels-MacBook-Air-2.local (41718)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[04/07/13 02:23:17 +0100 Samuels-MacBook-Air-2.local (41718)] INFO : Installing Rails3 Error instrumentation
+[04/07/13 02:23:17 +0100 Samuels-MacBook-Air-2.local (41718)] INFO : Finished instrumentation
+[04/07/13 03:46:59 +0100 Samuels-MacBook-Air-2.local (42160)] INFO : Reading configuration from config/newrelic.yml
+[04/07/13 03:46:59 +0100 Samuels-MacBook-Air-2.local (42160)] INFO : Starting the New Relic Agent.
+[04/07/13 03:46:59 +0100 Samuels-MacBook-Air-2.local (42160)] INFO : Environment: development
+[04/07/13 03:46:59 +0100 Samuels-MacBook-Air-2.local (42160)] INFO : Dispatcher: webrick
+[04/07/13 03:46:59 +0100 Samuels-MacBook-Air-2.local (42160)] INFO : Application: My Application
+[04/07/13 03:46:59 +0100 Samuels-MacBook-Air-2.local (42160)] WARN : Agent configured not to send data in this environment.
+[04/07/13 03:46:59 +0100 Samuels-MacBook-Air-2.local (42160)] INFO : Installing ActiveRecord instrumentation
+[04/07/13 03:46:59 +0100 Samuels-MacBook-Air-2.local (42160)] INFO : Installing Net instrumentation
+[04/07/13 03:46:59 +0100 Samuels-MacBook-Air-2.local (42160)] INFO : Installing Rails 3 Controller instrumentation
+[04/07/13 03:46:59 +0100 Samuels-MacBook-Air-2.local (42160)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[04/07/13 03:46:59 +0100 Samuels-MacBook-Air-2.local (42160)] INFO : Installing Rails3 Error instrumentation
+[04/07/13 03:46:59 +0100 Samuels-MacBook-Air-2.local (42160)] INFO : Finished instrumentation
+[04/07/13 04:09:05 +0100 Samuels-MacBook-Air-2.local (54300)] INFO : Reading configuration from config/newrelic.yml
+[04/07/13 04:09:05 +0100 Samuels-MacBook-Air-2.local (54300)] INFO : Starting the New Relic Agent.
+[04/07/13 04:09:05 +0100 Samuels-MacBook-Air-2.local (54300)] INFO : Environment: development
+[04/07/13 04:09:05 +0100 Samuels-MacBook-Air-2.local (54300)] INFO : Dispatcher: webrick
+[04/07/13 04:09:05 +0100 Samuels-MacBook-Air-2.local (54300)] INFO : Application: My Application
+[04/07/13 04:09:05 +0100 Samuels-MacBook-Air-2.local (54300)] WARN : Agent configured not to send data in this environment.
+[04/07/13 04:09:05 +0100 Samuels-MacBook-Air-2.local (54300)] INFO : Installing ActiveRecord instrumentation
+[04/07/13 04:09:05 +0100 Samuels-MacBook-Air-2.local (54300)] INFO : Installing Net instrumentation
+[04/07/13 04:09:05 +0100 Samuels-MacBook-Air-2.local (54300)] INFO : Installing Rails 3 Controller instrumentation
+[04/07/13 04:09:05 +0100 Samuels-MacBook-Air-2.local (54300)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[04/07/13 04:09:05 +0100 Samuels-MacBook-Air-2.local (54300)] INFO : Installing Rails3 Error instrumentation
+[04/07/13 04:09:05 +0100 Samuels-MacBook-Air-2.local (54300)] INFO : Finished instrumentation
+[04/07/13 04:34:55 +0100 Samuels-MacBook-Air-2.local (54440)] INFO : Reading configuration from config/newrelic.yml
+[04/07/13 04:34:55 +0100 Samuels-MacBook-Air-2.local (54440)] INFO : Starting the New Relic Agent.
+[04/07/13 04:34:55 +0100 Samuels-MacBook-Air-2.local (54440)] INFO : Environment: development
+[04/07/13 04:34:55 +0100 Samuels-MacBook-Air-2.local (54440)] INFO : Dispatcher: webrick
+[04/07/13 04:34:55 +0100 Samuels-MacBook-Air-2.local (54440)] INFO : Application: My Application
+[04/07/13 04:34:55 +0100 Samuels-MacBook-Air-2.local (54440)] WARN : Agent configured not to send data in this environment.
+[04/07/13 04:34:55 +0100 Samuels-MacBook-Air-2.local (54440)] INFO : Installing ActiveRecord instrumentation
+[04/07/13 04:34:55 +0100 Samuels-MacBook-Air-2.local (54440)] INFO : Installing Net instrumentation
+[04/07/13 04:34:55 +0100 Samuels-MacBook-Air-2.local (54440)] INFO : Installing Rails 3 Controller instrumentation
+[04/07/13 04:34:55 +0100 Samuels-MacBook-Air-2.local (54440)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[04/07/13 04:34:55 +0100 Samuels-MacBook-Air-2.local (54440)] INFO : Installing Rails3 Error instrumentation
+[04/07/13 04:34:55 +0100 Samuels-MacBook-Air-2.local (54440)] INFO : Finished instrumentation
+[04/07/13 05:22:04 +0100 Samuels-MacBook-Air-2.local (55120)] INFO : Reading configuration from config/newrelic.yml
+[04/07/13 05:22:04 +0100 Samuels-MacBook-Air-2.local (55120)] INFO : Starting the New Relic Agent.
+[04/07/13 05:22:04 +0100 Samuels-MacBook-Air-2.local (55120)] INFO : Environment: development
+[04/07/13 05:22:04 +0100 Samuels-MacBook-Air-2.local (55120)] INFO : Dispatcher: webrick
+[04/07/13 05:22:04 +0100 Samuels-MacBook-Air-2.local (55120)] INFO : Application: My Application
+[04/07/13 05:22:04 +0100 Samuels-MacBook-Air-2.local (55120)] WARN : Agent configured not to send data in this environment.
+[04/07/13 05:22:04 +0100 Samuels-MacBook-Air-2.local (55120)] INFO : Installing ActiveRecord instrumentation
+[04/07/13 05:22:04 +0100 Samuels-MacBook-Air-2.local (55120)] INFO : Installing Net instrumentation
+[04/07/13 05:22:04 +0100 Samuels-MacBook-Air-2.local (55120)] INFO : Installing Rails 3 Controller instrumentation
+[04/07/13 05:22:04 +0100 Samuels-MacBook-Air-2.local (55120)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[04/07/13 05:22:04 +0100 Samuels-MacBook-Air-2.local (55120)] INFO : Installing Rails3 Error instrumentation
+[04/07/13 05:22:04 +0100 Samuels-MacBook-Air-2.local (55120)] INFO : Finished instrumentation
+[04/07/13 15:50:46 +0100 Samuels-MacBook-Air-2.local (55592)] INFO : Reading configuration from config/newrelic.yml
+[04/07/13 15:50:46 +0100 Samuels-MacBook-Air-2.local (55592)] INFO : Starting the New Relic Agent.
+[04/07/13 15:50:46 +0100 Samuels-MacBook-Air-2.local (55592)] INFO : Environment: development
+[04/07/13 15:50:46 +0100 Samuels-MacBook-Air-2.local (55592)] INFO : Dispatcher: webrick
+[04/07/13 15:50:46 +0100 Samuels-MacBook-Air-2.local (55592)] INFO : Application: My Application
+[04/07/13 15:50:46 +0100 Samuels-MacBook-Air-2.local (55592)] WARN : Agent configured not to send data in this environment.
+[04/07/13 15:50:46 +0100 Samuels-MacBook-Air-2.local (55592)] INFO : Installing ActiveRecord instrumentation
+[04/07/13 15:50:46 +0100 Samuels-MacBook-Air-2.local (55592)] INFO : Installing Net instrumentation
+[04/07/13 15:50:46 +0100 Samuels-MacBook-Air-2.local (55592)] INFO : Installing Rails 3 Controller instrumentation
+[04/07/13 15:50:46 +0100 Samuels-MacBook-Air-2.local (55592)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[04/07/13 15:50:46 +0100 Samuels-MacBook-Air-2.local (55592)] INFO : Installing Rails3 Error instrumentation
+[04/07/13 15:50:46 +0100 Samuels-MacBook-Air-2.local (55592)] INFO : Finished instrumentation
+[04/08/13 01:24:13 +0100 Samuels-MacBook-Air-2.local (56556)] INFO : Reading configuration from config/newrelic.yml
+[04/08/13 01:24:13 +0100 Samuels-MacBook-Air-2.local (56556)] INFO : Starting the New Relic Agent.
+[04/08/13 01:24:13 +0100 Samuels-MacBook-Air-2.local (56556)] INFO : Environment: development
+[04/08/13 01:24:13 +0100 Samuels-MacBook-Air-2.local (56556)] INFO : Dispatcher: webrick
+[04/08/13 01:24:13 +0100 Samuels-MacBook-Air-2.local (56556)] INFO : Application: My Application
+[04/08/13 01:24:13 +0100 Samuels-MacBook-Air-2.local (56556)] WARN : Agent configured not to send data in this environment.
+[04/08/13 01:24:13 +0100 Samuels-MacBook-Air-2.local (56556)] INFO : Installing ActiveRecord instrumentation
+[04/08/13 01:24:13 +0100 Samuels-MacBook-Air-2.local (56556)] INFO : Installing Net instrumentation
+[04/08/13 01:24:13 +0100 Samuels-MacBook-Air-2.local (56556)] INFO : Installing Rails 3 Controller instrumentation
+[04/08/13 01:24:13 +0100 Samuels-MacBook-Air-2.local (56556)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[04/08/13 01:24:13 +0100 Samuels-MacBook-Air-2.local (56556)] INFO : Installing Rails3 Error instrumentation
+[04/08/13 01:24:13 +0100 Samuels-MacBook-Air-2.local (56556)] INFO : Finished instrumentation
+[04/16/13 12:51:46 +0100 Samuels-MacBook-Air-2.local (1378)] INFO : Reading configuration from config/newrelic.yml
+[04/16/13 12:51:46 +0100 Samuels-MacBook-Air-2.local (1378)] INFO : Starting the New Relic Agent.
+[04/16/13 12:51:46 +0100 Samuels-MacBook-Air-2.local (1378)] INFO : Environment: development
+[04/16/13 12:51:46 +0100 Samuels-MacBook-Air-2.local (1378)] INFO : Dispatcher: webrick
+[04/16/13 12:51:46 +0100 Samuels-MacBook-Air-2.local (1378)] INFO : Application: My Application
+[04/16/13 12:51:46 +0100 Samuels-MacBook-Air-2.local (1378)] WARN : Agent configured not to send data in this environment.
+[04/16/13 12:51:46 +0100 Samuels-MacBook-Air-2.local (1378)] INFO : Installing ActiveRecord instrumentation
+[04/16/13 12:51:46 +0100 Samuels-MacBook-Air-2.local (1378)] INFO : Installing Net instrumentation
+[04/16/13 12:51:46 +0100 Samuels-MacBook-Air-2.local (1378)] INFO : Installing Rails 3 Controller instrumentation
+[04/16/13 12:51:46 +0100 Samuels-MacBook-Air-2.local (1378)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[04/16/13 12:51:46 +0100 Samuels-MacBook-Air-2.local (1378)] INFO : Installing Rails3 Error instrumentation
+[04/16/13 12:51:46 +0100 Samuels-MacBook-Air-2.local (1378)] INFO : Finished instrumentation
+[04/23/13 17:27:00 +0100 Samuels-MacBook-Air-2.local (7875)] INFO : Reading configuration from config/newrelic.yml
+[04/23/13 17:27:00 +0100 Samuels-MacBook-Air-2.local (7875)] INFO : Starting the New Relic Agent.
+[04/23/13 17:27:00 +0100 Samuels-MacBook-Air-2.local (7875)] INFO : Environment: development
+[04/23/13 17:27:00 +0100 Samuels-MacBook-Air-2.local (7875)] INFO : Dispatcher: webrick
+[04/23/13 17:27:00 +0100 Samuels-MacBook-Air-2.local (7875)] INFO : Application: My Application
+[04/23/13 17:27:00 +0100 Samuels-MacBook-Air-2.local (7875)] WARN : Agent configured not to send data in this environment.
+[04/23/13 17:27:00 +0100 Samuels-MacBook-Air-2.local (7875)] INFO : Installing ActiveRecord instrumentation
+[04/23/13 17:27:00 +0100 Samuels-MacBook-Air-2.local (7875)] INFO : Installing Net instrumentation
+[04/23/13 17:27:00 +0100 Samuels-MacBook-Air-2.local (7875)] INFO : Installing Rails 3 Controller instrumentation
+[04/23/13 17:27:00 +0100 Samuels-MacBook-Air-2.local (7875)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[04/23/13 17:27:00 +0100 Samuels-MacBook-Air-2.local (7875)] INFO : Installing Rails3 Error instrumentation
+[04/23/13 17:27:00 +0100 Samuels-MacBook-Air-2.local (7875)] INFO : Finished instrumentation
+[05/02/13 16:12:11 +0100 Samuels-MacBook-Air-2.local (4491)] INFO : Reading configuration from config/newrelic.yml
+[05/02/13 16:12:11 +0100 Samuels-MacBook-Air-2.local (4491)] INFO : Starting the New Relic Agent.
+[05/02/13 16:12:11 +0100 Samuels-MacBook-Air-2.local (4491)] INFO : Environment: development
+[05/02/13 16:12:11 +0100 Samuels-MacBook-Air-2.local (4491)] INFO : Dispatcher: webrick
+[05/02/13 16:12:11 +0100 Samuels-MacBook-Air-2.local (4491)] INFO : Application: My Application
+[05/02/13 16:12:11 +0100 Samuels-MacBook-Air-2.local (4491)] WARN : Agent configured not to send data in this environment.
+[05/02/13 16:12:11 +0100 Samuels-MacBook-Air-2.local (4491)] INFO : Installing ActiveRecord instrumentation
+[05/02/13 16:12:11 +0100 Samuels-MacBook-Air-2.local (4491)] INFO : Installing Net instrumentation
+[05/02/13 16:12:11 +0100 Samuels-MacBook-Air-2.local (4491)] INFO : Installing Rails 3 Controller instrumentation
+[05/02/13 16:12:11 +0100 Samuels-MacBook-Air-2.local (4491)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[05/02/13 16:12:11 +0100 Samuels-MacBook-Air-2.local (4491)] INFO : Installing Rails3 Error instrumentation
+[05/02/13 16:12:11 +0100 Samuels-MacBook-Air-2.local (4491)] INFO : Finished instrumentation
+[05/02/13 17:17:48 +0100 Samuels-MacBook-Air-2.local (4801)] INFO : Reading configuration from config/newrelic.yml
+[05/02/13 17:17:48 +0100 Samuels-MacBook-Air-2.local (4801)] INFO : Starting the New Relic Agent.
+[05/02/13 17:17:48 +0100 Samuels-MacBook-Air-2.local (4801)] INFO : Environment: development
+[05/02/13 17:17:48 +0100 Samuels-MacBook-Air-2.local (4801)] INFO : Dispatcher: webrick
+[05/02/13 17:17:48 +0100 Samuels-MacBook-Air-2.local (4801)] INFO : Application: My Application
+[05/02/13 17:17:48 +0100 Samuels-MacBook-Air-2.local (4801)] WARN : Agent configured not to send data in this environment.
+[05/02/13 17:17:48 +0100 Samuels-MacBook-Air-2.local (4801)] INFO : Installing ActiveRecord instrumentation
+[05/02/13 17:17:48 +0100 Samuels-MacBook-Air-2.local (4801)] INFO : Installing Net instrumentation
+[05/02/13 17:17:48 +0100 Samuels-MacBook-Air-2.local (4801)] INFO : Installing Rails 3 Controller instrumentation
+[05/02/13 17:17:48 +0100 Samuels-MacBook-Air-2.local (4801)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[05/02/13 17:17:48 +0100 Samuels-MacBook-Air-2.local (4801)] INFO : Installing Rails3 Error instrumentation
+[05/02/13 17:17:48 +0100 Samuels-MacBook-Air-2.local (4801)] INFO : Finished instrumentation
+[05/02/13 17:22:17 +0100 Samuels-MacBook-Air-2.local (4819)] INFO : Reading configuration from config/newrelic.yml
+[05/02/13 17:22:17 +0100 Samuels-MacBook-Air-2.local (4819)] INFO : Starting the New Relic Agent.
+[05/02/13 17:22:17 +0100 Samuels-MacBook-Air-2.local (4819)] INFO : Environment: development
+[05/02/13 17:22:17 +0100 Samuels-MacBook-Air-2.local (4819)] INFO : Dispatcher: webrick
+[05/02/13 17:22:17 +0100 Samuels-MacBook-Air-2.local (4819)] INFO : Application: My Application
+[05/02/13 17:22:17 +0100 Samuels-MacBook-Air-2.local (4819)] WARN : Agent configured not to send data in this environment.
+[05/02/13 17:22:17 +0100 Samuels-MacBook-Air-2.local (4819)] INFO : Installing ActiveRecord instrumentation
+[05/02/13 17:22:17 +0100 Samuels-MacBook-Air-2.local (4819)] INFO : Installing Net instrumentation
+[05/02/13 17:22:17 +0100 Samuels-MacBook-Air-2.local (4819)] INFO : Installing Rails 3 Controller instrumentation
+[05/02/13 17:22:17 +0100 Samuels-MacBook-Air-2.local (4819)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[05/02/13 17:22:17 +0100 Samuels-MacBook-Air-2.local (4819)] INFO : Installing Rails3 Error instrumentation
+[05/02/13 17:22:17 +0100 Samuels-MacBook-Air-2.local (4819)] INFO : Finished instrumentation
+[05/09/13 20:33:29 +0100 Samuels-MacBook-Air-2.local (3942)] INFO : Reading configuration from config/newrelic.yml
+[05/09/13 20:33:29 +0100 Samuels-MacBook-Air-2.local (3942)] INFO : Starting the New Relic Agent.
+[05/09/13 20:33:29 +0100 Samuels-MacBook-Air-2.local (3942)] INFO : Environment: development
+[05/09/13 20:33:29 +0100 Samuels-MacBook-Air-2.local (3942)] INFO : Dispatcher: webrick
+[05/09/13 20:33:29 +0100 Samuels-MacBook-Air-2.local (3942)] INFO : Application: My Application
+[05/09/13 20:33:29 +0100 Samuels-MacBook-Air-2.local (3942)] WARN : Agent configured not to send data in this environment.
+[05/09/13 20:33:29 +0100 Samuels-MacBook-Air-2.local (3942)] INFO : Installing ActiveRecord instrumentation
+[05/09/13 20:33:29 +0100 Samuels-MacBook-Air-2.local (3942)] INFO : Installing Net instrumentation
+[05/09/13 20:33:29 +0100 Samuels-MacBook-Air-2.local (3942)] INFO : Installing Rails 3 Controller instrumentation
+[05/09/13 20:33:29 +0100 Samuels-MacBook-Air-2.local (3942)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[05/09/13 20:33:29 +0100 Samuels-MacBook-Air-2.local (3942)] INFO : Installing Rails3 Error instrumentation
+[05/09/13 20:33:29 +0100 Samuels-MacBook-Air-2.local (3942)] INFO : Finished instrumentation
+[05/10/13 02:46:05 +0100 Samuels-MacBook-Air-2.local (4891)] INFO : Reading configuration from config/newrelic.yml
+[05/10/13 02:46:05 +0100 Samuels-MacBook-Air-2.local (4891)] INFO : Starting the New Relic Agent.
+[05/10/13 02:46:05 +0100 Samuels-MacBook-Air-2.local (4891)] INFO : Environment: development
+[05/10/13 02:46:05 +0100 Samuels-MacBook-Air-2.local (4891)] INFO : Dispatcher: webrick
+[05/10/13 02:46:05 +0100 Samuels-MacBook-Air-2.local (4891)] INFO : Application: My Application
+[05/10/13 02:46:05 +0100 Samuels-MacBook-Air-2.local (4891)] WARN : Agent configured not to send data in this environment.
+[05/10/13 02:46:05 +0100 Samuels-MacBook-Air-2.local (4891)] INFO : Installing ActiveRecord instrumentation
+[05/10/13 02:46:05 +0100 Samuels-MacBook-Air-2.local (4891)] INFO : Installing Net instrumentation
+[05/10/13 02:46:05 +0100 Samuels-MacBook-Air-2.local (4891)] INFO : Installing Rails 3 Controller instrumentation
+[05/10/13 02:46:05 +0100 Samuels-MacBook-Air-2.local (4891)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[05/10/13 02:46:05 +0100 Samuels-MacBook-Air-2.local (4891)] INFO : Installing Rails3 Error instrumentation
+[05/10/13 02:46:05 +0100 Samuels-MacBook-Air-2.local (4891)] INFO : Finished instrumentation

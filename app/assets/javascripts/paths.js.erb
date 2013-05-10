@@ -1,0 +1,5 @@
+<% url_helpers = Rails.application.routes.url_helpers %>
+var ApiUrl = {
+  tokens_path: '<%= url_helpers.tokens_path %>',
+  authorization_path: '<%= url_helpers.authorization_path %>'
+};

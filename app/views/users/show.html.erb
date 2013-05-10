@@ -1,0 +1,20 @@
+<body style="overflow:hidden">
+<div class="navbar navbar-top">
+  <div class="navbar-inner">
+    <div class="container-fluid">
+      
+      <div class="brand pull-right"> <%= link_to 'Gigggs', "/" %> </div>
+      <% if user_signed_in? -%>
+      	<div class="brand pull-right"><%= link_to 'Me', user_path(@user) %>
+      	</div>
+      	<div class="brand pull-right"><%= link_to 'Sign out', destroy_user_session_path, :method => :delete %>
+      	</div>
+      <% else %>
+      	<div class="brand pull-right"><p><%= link_to 'Sign in', new_user_session_path %></p>
+      	</div>
+      <% end %>
+      <div class="brand pull-right"><p><%= link_to 'About', "/about" %></p></div>
+      
+    </div>
+  </div>
+</div>

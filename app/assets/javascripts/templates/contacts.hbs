@@ -1,0 +1,33 @@
+<div class="sidebar-nav" style="height:100%">
+  	<div id="tabs">
+		
+
+		<div {{bindAttr class="add:here:notHere"}} id="fragment-1">
+		
+			<ul>
+				<li><a class="mainSwitch switchOn" href="#fragment-1" {{action 'toAdd' target="controller"}}>Add Gig</a></li>
+				<li><a class="mainSwitch" href="#fragment-2" {{action 'toFind' target="controller"}}>Find Gigs</a></li>
+			</ul>
+
+			<!--gig creation stuff-->
+		
+			{{outlet add}}
+		
+		</div>
+	
+		<div id="fragment-2" {{bindAttr class="add:notHere:here"}}>
+		
+			<ul>
+				<li><a class="mainSwitch" href="#fragment-1" {{action 'toAdd' target="controller"}}>Add Gig</a></li>
+				<li><a class="mainSwitch switchOn" href="#fragment-2" {{action 'toFind' target="controller"}}>Find Gigs</a></li>
+			</ul>
+
+	
+			<!--gig filtering stuff-->
+	
+			{{outlet filter}}
+	
+		</div>
+	</div>
+</div>
+

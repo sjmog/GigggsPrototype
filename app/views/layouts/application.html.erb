@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Gigggs</title>
+  <%= stylesheet_link_tag    "application" %>
+  <%= javascript_include_tag "application" %>
+  <%= csrf_meta_tags %>
+  <%- if user_signed_in? %>
+    <meta name="current-user" content="<%= UserSerializer.new(current_user).to_json(root: false) %>" />
+  <% end %>
+ <script src="http://code.jquery.com/ui/1.10.2/jquery-ui.js"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB3QM0p3_LLVsNLuWmpJW5UTDLU8DZ88yU&sensor=true&amp;libraries=places">
+  type="text/javascript"></script>
+
+  <style type="text/css">#map-canvas { height: 100%; max-width:100%; } #map-canvas img {
+  max-width: none !important;}</style>
+ 
+</head>
+<body style="overflow:hidden">
+	<div class="theNavWrap">
+		<nav class="theNav">
+			<ul class="theNavList">
+				<li class="theNavItem"><%= link_to 'About', "http://www.handcraftedco.de/" %></li>
+				<% if user_signed_in? -%>
+				<li class="theNavItem"><%= link_to 'Sign out', destroy_user_session_path, :method => :delete %></li>
+				<% else %>
+				<li class="theNavItem"><%= link_to 'Sign in', new_user_session_path %></li>
+				<% end %>
+			</ul>
+		</nav>
+	</div>
+
+<div id="loginForm">
+
+  <%= render 'devise/sessions/new' %>
+
+</div>
+
+<div id="signUpForm">
+
+  <%= render 'devise/registrations/new' %>
+
+</div>
+
+<%= yield %>
+
+
+</body>
+</html>

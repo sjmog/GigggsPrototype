@@ -1,0 +1,15 @@
+{{view}}
+
+<form {{action save on="submit"}} class="form-horizontal">
+
+  {{partial "contact_edit_fields"}}
+
+  <div class="form-actions">
+  	{{#if controllers.currentUser.isSignedIn}}
+  		{{submitButton "Create"}}
+  	{{else}}
+  		<button class="btn" {{action doAuth}}>Create and Sign up</button>
+  	{{/if}}
+    <button class="btn" {{action cancel}}>Clear and start again</button>
+  </div>
+</form>

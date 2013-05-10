@@ -1,0 +1,43 @@
+
+
+
+
+
+
+
+<div id="map-canvas">
+
+
+
+	
+
+</div>
+{{ view }}
+<script type="text/javascript">
+
+
+
+function setMap() {
+	console.log('setMap called');
+	var uWidth = $(window).width();
+	var uHeight = $(window).height();
+	$('#map-canvas').css('width', uWidth);
+	$('#map-canvas').css('height', uHeight);
+	$('#theSidebar').css('height', uHeight);
+	// google.maps.event.trigger(map, 'resize');
+};
+
+
+var resizeTimer = null;
+
+$(window).resize(function() {
+	console.log('window resized');
+    clearTimeout(resizeTimer);
+    resizeTimer = setTimeout(setMap(), 100);
+});
+$(window).ready(function() {
+	console.log('window ready');
+    clearTimeout(resizeTimer);
+    resizeTimer = setTimeout(setMap(), 100);
+});
+</script>

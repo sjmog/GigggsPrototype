@@ -1,0 +1,10 @@
+<form {{action save on="submit"}} class="form-horizontal">
+  <legend>Sign In, or Sign Up</legend>
+
+{{field email}}
+{{field password as="password"}}
+	<div class="form-actions">
+    {{submitButton "Sign Up"}}
+    <button class="btn" {{action cancel}}>Cancel</button>
+  </div>
+  </form>
